@@ -14,6 +14,7 @@ const constant = require("./const");
 
 let args;
 
+
 function index() {
   try {
     checkPkgVersion();
