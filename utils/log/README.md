@@ -1,11 +1,11 @@
-# `@allview-cli/log`
+# `@allview-cli/index`
 
 > TODO: description
 
 ## Usage
 
 ```
-const log = require('@allview-cli/log');
+const index = require('@allview-cli/index');
 
 // TODO: DEMONSTRATE API
 ```
