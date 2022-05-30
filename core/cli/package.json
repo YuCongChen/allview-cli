@@ -1,6 +1,6 @@
 {
   "name": "@allview-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "allview-cli core",
   "author": "chenyucong <1803861304@qq.com>",
   "homepage": "",
@@ -27,8 +27,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@allview-cli/log": "^1.0.1",
-    "@allview-cli/utils": "^1.0.1",
+    "@allview-cli/log": "^1.0.2",
+    "@allview-cli/utils": "^1.0.2",
     "colors": "^1.4.0",
     "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
